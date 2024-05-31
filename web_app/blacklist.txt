@@ -1,6 +1,1 @@
-0.0.0.0 br-icloud.com.br
-0.0.0.0 gitlab.com
-0.0.0.0 docs.staruml.io
-0.0.0.0 www.flaticon.com
-0.0.0.0 www.threatdown.com
-0.0.0.0 uiball.com
+New content for the file
