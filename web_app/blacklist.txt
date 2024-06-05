@@ -7,7 +7,6 @@
 0.0.0.0 iradesign.io
 0.0.0.0 www.ilovepdf.com
 0.0.0.0 www.flaticon.com
-0.0.0.0 gitlab.com
 0.0.0.0 retajconsultancy.com
 0.0.0.0 alexpay2.beget.tech
 0.0.0.0 facebook.unitedcolleges.net
@@ -17,3 +16,4 @@
 0.0.0.0 www.threatdown.com
 0.0.0.0 uiball.com
 0.0.0.0 docs.staruml.io
+0.0.0.0 gitlab.com
