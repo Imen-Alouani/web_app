@@ -5,7 +5,6 @@
 0.0.0.0 testmynids.org
 0.0.0.0 iradesign.io
 0.0.0.0 www.ilovepdf.com
-0.0.0.0 www.flaticon.com
 0.0.0.0 retajconsultancy.com
 0.0.0.0 alexpay2.beget.tech
 0.0.0.0 facebook.unitedcolleges.net
@@ -20,3 +19,4 @@
 0.0.0.0 classroom.google.com
 0.0.0.0 beget.tech
 0.0.0.0 www.ebay.com
+0.0.0.0 www.flaticon.com
