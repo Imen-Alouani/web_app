@@ -1,5 +1,5 @@
-0.0.0.0 roverslands.net
-0.0.0.0 flaticon.com
+rs.com
+n.com
 0.0.0.0 www.threatdown.com
 0.0.0.0 uiball.com
 0.0.0.0 classroom.google.com
@@ -15,3 +15,6 @@
 0.0.0.0 retajconsultancy.com
 0.0.0.0 alexpay2.beget.tech
 0.0.0.0 facebook.unitedcolleges.net
+0.0.0.0 roverslands.net
+0.0.0.0 corporacionrossenditotours.com
+0.0.0.0 halkbankparaf-para.com
