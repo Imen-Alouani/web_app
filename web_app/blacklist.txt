@@ -16,4 +16,3 @@
 0.0.0.0 corporacionrossenditotours.com
 0.0.0.0 halkbankparaf-para.com
 0.0.0.0 www.threatdown.com
-0.0.0.0 www.booking.com
