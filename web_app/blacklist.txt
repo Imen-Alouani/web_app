@@ -1,1 +1,10 @@
-New content for the file
+0.0.0.0 developer.mozilla.org
+0 www.flaticon.com
+0.0.0.0 www.threatdown.com
+0.0.0.0 uiball.com
+0.0.0.0 classroom.google.com
+0.0.0.0 br-icloud.com.br
+0.0.0.0 developer.mozilla.org
+0.0.0.0 www.maparatunisie.tn
+0.0.0.0 testmynids.org
+0.0.0.0 www.zenarmor.com
